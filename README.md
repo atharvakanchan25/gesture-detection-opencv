@@ -1,5 +1,3 @@
-# gesture-detection-opencv
-
 # Gesture & Body Detection with OpenCV & MediaPipe
 ![Screencast from 2025-02-12 19-44-33](https://github.com/user-attachments/assets/f5474ee1-5801-49b9-a5e6-bb4460962132)
 
